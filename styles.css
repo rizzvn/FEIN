@@ -1,0 +1,12 @@
+body{margin:0;background:#f4e9d8;font-family:Poppins,sans-serif;color:#3b2f2f}
+header{background:#5e3b2e;color:gold;padding:20px;text-align:center}
+nav a{color:gold;margin:0 15px;text-decoration:none;font-weight:bold}
+.hero{padding:100px 20px;background:url('https://images.unsplash.com/photo-1526498460520-4c246339dccb') center/cover;text-align:center;color:white}
+.btn{background:#b89254;color:white;padding:10px 20px;border-radius:10px;text-decoration:none;display:inline-block}
+.btn-danger{background:#8b3a3a;color:white;padding:10px 20px;border-radius:10px;border:none;cursor:pointer}
+.product-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px;padding:20px}
+.product-card{background:#fff9f0;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.1);padding:15px;text-align:center}
+.product-card img{width:100%;border-radius:10px}
+.filters{display:flex;justify-content:center;gap:12px;padding:20px}
+.whatsapp-float{position:fixed;bottom:20px;right:20px;background:green;color:white;padding:12px 18px;border-radius:50px;text-decoration:none}
+.thankyou-box{text-align:center;padding:100px 20px}
